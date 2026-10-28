@@ -1,0 +1,79 @@
+{
+  "version": "1.0.0-canonical",
+  "canonicalEpoch": "2026-10-A-SPACE-OS",
+  "primaryImage": "/public/assets/aistudio/image_6c772a74.png",
+  "continents": [
+    {
+      "id": "A0_CITADEL",
+      "name": "A0 — Citadelle Souveraine",
+      "shortName": "A0 Citadelle",
+      "kernelType": "CITADEL",
+      "panoramaCoords": { "x": 49.6, "y": 47.8, "radius": 9.5 },
+      "world3DCoords": { "x": 0, "y": 1.2, "z": 0 },
+      "primaryAssetIds": ["A0-01", "A0-02"]
+    },
+    {
+      "id": "TECH_OS",
+      "name": "Tech OS — Cœur Kernel L0",
+      "shortName": "Tech OS",
+      "kernelType": "TECH",
+      "panoramaCoords": { "x": 27.5, "y": 20.8, "radius": 11.2 },
+      "world3DCoords": { "x": -9.5, "y": 0.8, "z": -7.5 },
+      "primaryAssetIds": ["TECH-01", "TECH-02"]
+    },
+    {
+      "id": "LIFE_OS",
+      "name": "Life OS — Continent Régénératif",
+      "shortName": "Life OS",
+      "kernelType": "LIFE",
+      "panoramaCoords": { "x": 67.2, "y": 23.5, "radius": 11.5 },
+      "world3DCoords": { "x": 8.8, "y": 0.9, "z": -7.2 },
+      "primaryAssetIds": ["LIFE-01", "LIFE-02"]
+    },
+    {
+      "id": "BIZ_OS",
+      "name": "Business OS — Continent de Production",
+      "shortName": "Business OS",
+      "kernelType": "BUSINESS",
+      "panoramaCoords": { "x": 82.5, "y": 57.0, "radius": 11.0 },
+      "world3DCoords": { "x": 9.8, "y": 0.7, "z": 4.8 },
+      "primaryAssetIds": ["BIZ-01", "BIZ-02"]
+    },
+    {
+      "id": "L2_VOLCANO",
+      "name": "L2 Forge Magmatique",
+      "shortName": "Forge Magma",
+      "kernelType": "EXPANSION",
+      "panoramaCoords": { "x": 13.8, "y": 39.5, "radius": 6.5 },
+      "world3DCoords": { "x": -11.0, "y": 1.0, "z": -1.2 },
+      "primaryAssetIds": []
+    },
+    {
+      "id": "L2_CRYO",
+      "name": "L2 Pics de Cristal & Glaciers",
+      "shortName": "Pics Cryo",
+      "kernelType": "EXPANSION",
+      "panoramaCoords": { "x": 12.5, "y": 63.8, "radius": 7.2 },
+      "world3DCoords": { "x": -10.2, "y": 1.1, "z": 5.2 },
+      "primaryAssetIds": []
+    },
+    {
+      "id": "L2_ATOLL",
+      "name": "L2 Archipel des 8 Domaines",
+      "shortName": "Archipel L2",
+      "kernelType": "EXPANSION",
+      "panoramaCoords": { "x": 39.5, "y": 77.2, "radius": 8.0 },
+      "world3DCoords": { "x": -2.8, "y": 0.4, "z": 7.8 },
+      "primaryAssetIds": []
+    },
+    {
+      "id": "L2_PLATEAU",
+      "name": "L2 Falaises Solaires",
+      "shortName": "Plateaux L2",
+      "kernelType": "EXPANSION",
+      "panoramaCoords": { "x": 63.5, "y": 79.0, "radius": 7.5 },
+      "world3DCoords": { "x": 4.5, "y": 0.6, "z": 8.5 },
+      "primaryAssetIds": []
+    }
+  ]
+}

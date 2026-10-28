@@ -1,0 +1,6 @@
+{
+  "name": "A’Space Planetary OS",
+  "description": "Système d'exploitation spatial planétaire interactif 3D, navigation de continents et fabrique d'actifs architecturaux procéduraux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
